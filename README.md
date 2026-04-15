@@ -1,3 +1,5 @@
+<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/8d4cadcd-6cc7-4682-9f0d-ed4c0e2c609d" />
+
 # ChatbotAI
 
 An AI-powered e-commerce assistant that helps users discover products, ask policy questions, and chat in real time with server-sent event (SSE) streaming.
