@@ -6,6 +6,7 @@ import { requireAuth } from "../middleware/auth.js";
 
 const router = Router();
 
+
 // GET /api/products — list all products
 router.get("/", async (_req, res) => {
   try {
